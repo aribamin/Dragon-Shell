@@ -7,8 +7,11 @@
 Design Choices
 
 Built-in Commands:
+
 cd: Changes the current working directory.
+
 pwd: Prints the current directory.
+
 exit: Exits the shell, ensures background processes are terminated, and shows total CPU time used.
 
 Redirection:
