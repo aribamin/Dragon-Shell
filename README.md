@@ -1,7 +1,7 @@
 #----------------------------
-Name : Arib Amin
-SID : 1707860
-CCID : arib1
+#Name : Arib Amin
+#SID : 1707860
+#CCID : arib1
 #----------------------------
 
 Design Choices
