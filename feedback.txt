@@ -1,0 +1,32 @@
+Support for built-in commands [ 15 /15]
+Comment:
+
+Launching external commands [ 15 /15]
+Comment:
+
+Printing user and system time before terminating the shell [ 10 /10]
+Comment:
+
+Running commands in the background [ 10 /10]
+Comment:
+
+Support input/output redirection [ 10 /10]
+Comment:
+
+Support piping the output of one command to another [ 10 /10]
+Comment:
+
+Handling signals [ 10 /10]
+Comment:
+
+Makefile [ 10 /10]
+Comment:
+
+Readme file [ 10 /10]
+Comment:
+
+Other deductions, e.g. using library functions instead of system call wrappers, warnings, memory issues, incorrect file names, extremely poor code structure, style, or modularity, etc.
+Comment:
+
+Graded by Jatin Tarachandani (tarachan@ualberta.ca)
+Total [ 100 /100]
