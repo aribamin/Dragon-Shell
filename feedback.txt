@@ -26,7 +26,7 @@ Readme file [ 10 /10]
 Comment:
 
 Other deductions, e.g. using library functions instead of system call wrappers, warnings, memory issues, incorrect file names, extremely poor code structure, style, or modularity, etc.
-Comment:
+Comment:(-5) Used exit(3) library function instead of _exit(2) syscall 
 
 Graded by Jatin Tarachandani (tarachan@ualberta.ca)
-Total [ 100 /100]
+Total [ 95 /100]
